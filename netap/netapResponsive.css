@@ -1,0 +1,121 @@
+@media screen and (max-width: 1300px)
+{
+    .urunler-text-content
+    {
+        padding: 15px;
+    }
+}
+@media screen and (max-width: 1000px)
+{
+    .swiper-slide>img
+    {
+        width: 100%;
+    }
+}
+@media screen and (max-width: 870px)
+{
+    .urunler-img>img
+    {
+        height: 350px;
+    }
+    #menu-icon-box
+    {
+        display: inline-block;
+    }
+    #responsive-nav-box
+    {
+        width:50%;
+    }
+    .navigation>p
+    {
+        display: inline-block;
+    }
+    .navigation
+    {
+        justify-content:space-between;
+        width: 100%;
+    }
+    .urunler-text-content
+    {
+        padding: 40px;
+    }
+    .img1
+    {
+        order: 1;width: 100%;
+    }
+    .img2
+    {
+        order: 3;width: 100%;
+    }
+    .text1
+    {
+        order: 2;width: 100%;
+    }
+    .text2
+    {
+        order: 4;width: 100%;
+    }
+    .img3
+    {
+       order: 5; width: 100%;
+    }
+    .text3
+    {
+       order: 6; width: 100%;
+    }
+    .text4
+    {
+        order: 8;width: 100%;
+    }
+    .img4
+    {
+        order: 7; width: 100%;
+    }
+    .text5
+    {
+        order: 10; width: 100%;
+    }
+    .img5
+    {
+        order: 9; width: 100%;
+    }
+    .section-contact-left, .form-box
+    {
+        width: 100%;
+    }
+    .section-main-contact
+    {
+        display:inline-block;
+    }
+    .navigation>ul
+    {
+        display: none;
+    }
+    .swiper-slider-header-box-content,.section-urunler-main-header
+    {
+        width: 100%;
+    }
+    @media screen and (max-width: 500px)
+    {
+        #form div
+        {
+            width: 100%;
+        }
+        .header-content-text
+        {
+            font-size: 10px;
+        }
+        #main
+        {
+            height: 500px;
+        }
+        .urunler-text-content
+        {
+            padding: 10px;
+        }
+        .footer-box h1, p
+        {
+            margin: 20px;
+        }
+    }
+}
